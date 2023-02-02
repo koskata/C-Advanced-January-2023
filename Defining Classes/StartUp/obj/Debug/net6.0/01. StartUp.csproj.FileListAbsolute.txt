@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\bin\Debug\net6.0\01. StartUp.exe
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\bin\Debug\net6.0\01. StartUp.deps.json
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\bin\Debug\net6.0\01. StartUp.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\bin\Debug\net6.0\01. StartUp.dll
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\bin\Debug\net6.0\01. StartUp.pdb
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\obj\Debug\net6.0\01. StartUp.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\obj\Debug\net6.0\01. StartUp.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\obj\Debug\net6.0\01. StartUp.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\obj\Debug\net6.0\01. StartUp.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\obj\Debug\net6.0\01. StartUp.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\obj\Debug\net6.0\01. StartUp.dll
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\obj\Debug\net6.0\refint\01. StartUp.dll
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\obj\Debug\net6.0\01. StartUp.pdb
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\obj\Debug\net6.0\01. StartUp.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\StartUp\obj\Debug\net6.0\ref\01. StartUp.dll

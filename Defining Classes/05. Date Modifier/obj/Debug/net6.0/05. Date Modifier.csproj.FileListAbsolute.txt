@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.exe
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.deps.json
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.dll
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\bin\Debug\net6.0\05. Date Modifier.pdb
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.dll
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\refint\05. Date Modifier.dll
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.pdb
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\05. Date Modifier.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\Defining Classes - Exercise\05. Date Modifier\obj\Debug\net6.0\ref\05. Date Modifier.dll
