@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\bin\Debug\net6.0\CustomList.exe
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\bin\Debug\net6.0\CustomList.deps.json
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\bin\Debug\net6.0\CustomList.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\bin\Debug\net6.0\CustomList.dll
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\bin\Debug\net6.0\CustomList.pdb
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\obj\Debug\net6.0\CustomList.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\obj\Debug\net6.0\CustomList.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\obj\Debug\net6.0\CustomList.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\obj\Debug\net6.0\CustomList.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\obj\Debug\net6.0\CustomList.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\obj\Debug\net6.0\CustomList.dll
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\obj\Debug\net6.0\refint\CustomList.dll
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\obj\Debug\net6.0\CustomList.pdb
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\obj\Debug\net6.0\CustomList.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomList\obj\Debug\net6.0\ref\CustomList.dll
