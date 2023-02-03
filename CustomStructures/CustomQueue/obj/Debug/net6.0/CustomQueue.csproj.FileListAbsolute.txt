@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\bin\Debug\net6.0\CustomQueue.exe
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\bin\Debug\net6.0\CustomQueue.deps.json
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\bin\Debug\net6.0\CustomQueue.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\bin\Debug\net6.0\CustomQueue.dll
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\bin\Debug\net6.0\CustomQueue.pdb
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\obj\Debug\net6.0\CustomQueue.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\obj\Debug\net6.0\CustomQueue.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\obj\Debug\net6.0\CustomQueue.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\obj\Debug\net6.0\CustomQueue.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\obj\Debug\net6.0\CustomQueue.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\obj\Debug\net6.0\CustomQueue.dll
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\obj\Debug\net6.0\refint\CustomQueue.dll
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\obj\Debug\net6.0\CustomQueue.pdb
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\obj\Debug\net6.0\CustomQueue.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\CustomStructures\CustomQueue\obj\Debug\net6.0\ref\CustomQueue.dll
