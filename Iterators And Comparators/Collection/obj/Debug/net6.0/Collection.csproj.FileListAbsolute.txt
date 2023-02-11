@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\bin\Debug\net6.0\Collection.exe
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\bin\Debug\net6.0\Collection.deps.json
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\bin\Debug\net6.0\Collection.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\bin\Debug\net6.0\Collection.dll
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\bin\Debug\net6.0\Collection.pdb
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\obj\Debug\net6.0\Collection.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\obj\Debug\net6.0\Collection.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\obj\Debug\net6.0\Collection.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\obj\Debug\net6.0\Collection.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\obj\Debug\net6.0\Collection.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\obj\Debug\net6.0\Collection.dll
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\obj\Debug\net6.0\refint\Collection.dll
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\obj\Debug\net6.0\Collection.pdb
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\obj\Debug\net6.0\Collection.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\Collection\obj\Debug\net6.0\ref\Collection.dll

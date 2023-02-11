@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\bin\Debug\net6.0\CustomComparator.exe
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\bin\Debug\net6.0\CustomComparator.deps.json
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\bin\Debug\net6.0\CustomComparator.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\bin\Debug\net6.0\CustomComparator.dll
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\bin\Debug\net6.0\CustomComparator.pdb
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.dll
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\obj\Debug\net6.0\refint\CustomComparator.dll
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.pdb
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\obj\Debug\net6.0\CustomComparator.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators - Exercise\CustomComparator\obj\Debug\net6.0\ref\CustomComparator.dll
