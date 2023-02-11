@@ -1,0 +1,15 @@
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\bin\Debug\net6.0\ComparableBook.exe
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\bin\Debug\net6.0\ComparableBook.deps.json
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\bin\Debug\net6.0\ComparableBook.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\bin\Debug\net6.0\ComparableBook.dll
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\bin\Debug\net6.0\ComparableBook.pdb
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\obj\Debug\net6.0\ComparableBook.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\obj\Debug\net6.0\ComparableBook.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\obj\Debug\net6.0\ComparableBook.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\obj\Debug\net6.0\ComparableBook.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\obj\Debug\net6.0\ComparableBook.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\obj\Debug\net6.0\ComparableBook.dll
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\obj\Debug\net6.0\refint\ComparableBook.dll
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\obj\Debug\net6.0\ComparableBook.pdb
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\obj\Debug\net6.0\ComparableBook.genruntimeconfig.cache
+D:\C# - Fundamentals(09.2022)\IteratorsAndComparators\ComparableBook\obj\Debug\net6.0\ref\ComparableBook.dll
