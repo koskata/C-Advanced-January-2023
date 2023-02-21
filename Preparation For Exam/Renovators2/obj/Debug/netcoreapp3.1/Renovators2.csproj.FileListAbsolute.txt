@@ -1,0 +1,14 @@
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\bin\Debug\netcoreapp3.1\Renovators2.exe
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\bin\Debug\netcoreapp3.1\Renovators2.deps.json
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\bin\Debug\netcoreapp3.1\Renovators2.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\bin\Debug\netcoreapp3.1\Renovators2.runtimeconfig.dev.json
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\bin\Debug\netcoreapp3.1\Renovators2.dll
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\bin\Debug\netcoreapp3.1\Renovators2.pdb
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\obj\Debug\netcoreapp3.1\Renovators2.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\obj\Debug\netcoreapp3.1\Renovators2.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\obj\Debug\netcoreapp3.1\Renovators2.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\obj\Debug\netcoreapp3.1\Renovators2.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\obj\Debug\netcoreapp3.1\Renovators2.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\obj\Debug\netcoreapp3.1\Renovators2.dll
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\obj\Debug\netcoreapp3.1\Renovators2.pdb
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\Renovators2\obj\Debug\netcoreapp3.1\Renovators2.genruntimeconfig.cache

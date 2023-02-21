@@ -1,0 +1,14 @@
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.exe
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.deps.json
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.json
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.runtimeconfig.dev.json
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.dll
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\bin\Debug\netcoreapp3.1\FishingNet.pdb
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.AssemblyReference.cache
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.GeneratedMSBuildEditorConfig.editorconfig
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfoInputs.cache
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.AssemblyInfo.cs
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.csproj.CoreCompileInputs.cache
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.dll
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.pdb
+D:\C# - Fundamentals(09.2022)\Preparation For Exam(Advanced)\FishingNet\obj\Debug\netcoreapp3.1\FishingNet.genruntimeconfig.cache
